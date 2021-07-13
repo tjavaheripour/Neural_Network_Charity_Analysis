@@ -47,7 +47,7 @@ This project consists of three technical analysis deliverables to analyze and cl
 
 ### Compiling, Training, and Evaluating the Mode :
 
-
+I started with 2 hidden layers and then extended it to 4 hidden layers with various number of Neurons for each layer and tested with different activation functions such as 'relu' and 'tanh'. None of the attempts made a significant difference in the end results for Model Accuracy.
 
 | Model | Accuracy | Layers | Hidden Layer1 Neurons | Activation Function1 | Hidden Layer2 Neurons | Activation Function2 | Hidden Layer3 Neurons | Activation Function3 | Hidden Layer4 Neurons | Activation Function4 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
