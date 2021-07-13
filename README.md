@@ -46,9 +46,9 @@ This project consists of three technical analysis deliverables to analyze and cl
 
 
 ### Compiling, Training, and Evaluating the Mode :
-fgdf	gfhgg					nfgh
-fgf	ghf		jhj			
-fgf	jhj			hnfh	hjfg	hfgh
+
+| Model | Accuracy | Layers | Hidden Layer1 Neurons | Activation Function1 | Hidden Layer2 Neurons | Activation Function2 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 ## Summary :
