@@ -63,12 +63,16 @@ This project consists of three technical analysis deliverables to analyze and cl
 | Model3 | 74% | 3 | 80 | relu | 30 | tanh | 20 | tanh | - | - |
 | Model4 | 74% | 3 | 80 | relu | 40 | tanh | 20 | tanh | 10 | tanh |
 
+- First Model
 ![accuracy1.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/accuracy1.PNG)
 
+- attempt1
 ![accuracy2.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/accuracy2.PNG)
 
+- attempt2
 ![accuracy3.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/accuracy3.PNG)
 
+-attempt1
 ![accuracy4.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/accuracy4.PNG)
 
 
