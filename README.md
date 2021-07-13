@@ -52,9 +52,9 @@ This project consists of three technical analysis deliverables to analyze and cl
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 
-| Model | Accuracy | Layers | Hidden Layer1 Neurons |
-| --- | --- | --- | --- |
-| 1 | 2 | 1 | 2 |
+| Model | Accuracy | Layers | Hidden Layer1 Neurons | Activation Function1 | Hidden Layer2 Neurons | Activation Function2 | Hidden Layer3 Neurons | Activation Function3 | Hidden Layer4 Neurons | Activation Function4 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Model | 2 | 1 | 2 |
 | git diff | Show file differences that haven't been staged | git diff | Show file differences that haven't been staged |
 
 ## Summary :
