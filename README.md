@@ -54,7 +54,7 @@ This project consists of three technical analysis deliverables to analyze and cl
 
 | Model | Accuracy | Layers | Hidden Layer1 Neurons | Activation Function1 | Hidden Layer2 Neurons | Activation Function2 | Hidden Layer3 Neurons | Activation Function3 | Hidden Layer4 Neurons | Activation Function4 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Model | 2 | 1 | 2 |
+| Model1 | 74% | 2 | 80 | relu | 30 | relu |
 | git diff | Show file differences that haven't been staged | git diff | Show file differences that haven't been staged |
 
 ## Summary :
