@@ -87,3 +87,6 @@ This project consists of three technical analysis deliverables to analyze and cl
 - In my first attempt to increase model performance I looked at Income_Amt value counts for binning and determined which values to replace if counts are less than 500. In my second attempt I added a 3rd layer with different number of neruons to each layer. The next few steps I took was to add extra layer and tested different activation functions (Relu and Tanh) to achieve an accuracy higher than 75% .
 
 ## Summary :
+
+In this project, the goal was to create a model to predict the success of candidate companies receiving donations with use of a deep learning neural network model. We couldn’t get a satisfying performance to help predict the outcome of the charity donations. To increase the performance of the model, we applied bucketing to the Income_Amt values. We also increased the number of hidden layers and their neurons. We played with the activation functions and tested different combinations of RELU, Tanh and Sigmoid.
+Since we are in a binary classification situation, the recommendation is to add more data and use logistic regression or even random forest classifiers to to generate a classified output and reach our goal.
