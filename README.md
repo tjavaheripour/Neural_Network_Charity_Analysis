@@ -31,6 +31,10 @@ This project consists of three technical analysis deliverables to analyze and cl
 ### Data Preprocessing :
 
 -	The target variable for my model is the "Is_Successful" column which tells us whether the money was used effectively.
+
+![target.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/target.PNG)
+
+
 -	The features variables in this model are every column for the target, the name and EID columns:
        - APPLICATION_TYPE
        - AFFILIATION
@@ -41,6 +45,9 @@ This project consists of three technical analysis deliverables to analyze and cl
        - INCOME_AMT
        - SPECIAL_CONSIDERATIONS
        - ASK_AMT
+
+![features.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/features.PNG)
+
 
 -	The name and EID columns are neither targets nor features, and should be removed from the input data.
 
@@ -55,6 +62,16 @@ This project consists of three technical analysis deliverables to analyze and cl
 | Model2 | 74% | 3 | 80 | relu | 30 | relu | 20 | relu | - | - |
 | Model3 | 74% | 3 | 80 | relu | 30 | tanh | 20 | tanh | - | - |
 | Model4 | 74% | 3 | 80 | relu | 40 | tanh | 20 | tanh | 10 | tanh |
+
+![accuracy1.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/accuracy1.PNG)
+
+![accuracy2.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/accuracy2.PNG)
+
+![accuracy3.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/accuracy3.PNG)
+
+![accuracy4.PNG](https://github.com/tjavaheripour/Neural_Network_Charity_Analysis/blob/main/Images/accuracy4.PNG)
+
+
 
 - I was not successful in reaching out the target model performance within my 3 attempts,these attempts did not improve the accuracy results which were around 74%.
 
