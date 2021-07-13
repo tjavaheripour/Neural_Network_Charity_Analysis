@@ -49,6 +49,8 @@ This project consists of three technical analysis deliverables to analyze and cl
 
 | Model | Accuracy | Layers | Hidden Layer1 Neurons | Activation Function1 | Hidden Layer2 Neurons | Activation Function2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+
 
 | Command | Description |
 | --- | --- |
