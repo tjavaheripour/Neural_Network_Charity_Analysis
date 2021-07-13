@@ -52,9 +52,9 @@ This project consists of three technical analysis deliverables to analyze and cl
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 
-| Command | Description |
+| Model | Accuracy |
 | --- | --- |
-| git status | List all new or modified files |
+| 1 | 2 |
 | git diff | Show file differences that haven't been staged |
 
 ## Summary :
