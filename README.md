@@ -30,6 +30,21 @@ This project consists of three technical analysis deliverables to analyze and cl
 
 ### Data Preprocessing :
 
+-	The target variable for my model is the "Is_Successful" column which tells us whether the money was used effectively.
+-	The features variables in this model are every column for the target, the name and EID columns:
+o	 APPLICATION_TYPE
+o	AFFILIATION
+o	CLASSIFICATION
+o	USE_CASE
+o	ORGANIZATION
+o	STATUS
+o	INCOME_AMT
+o	SPECIAL_CONSIDERATIONS
+o	ASK_AMT
+
+-	The name and EID columns are neither targets nor features, and should be removed from the input data.
+
+
 ### Compiling, Training, and Evaluating the Mode :
 
 
