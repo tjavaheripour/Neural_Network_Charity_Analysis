@@ -32,15 +32,15 @@ This project consists of three technical analysis deliverables to analyze and cl
 
 -	The target variable for my model is the "Is_Successful" column which tells us whether the money was used effectively.
 -	The features variables in this model are every column for the target, the name and EID columns:
-   - APPLICATION_TYPE
-   - AFFILIATION
-   - CLASSIFICATION
-   - USE_CASE
-   - ORGANIZATION
-   - STATUS
-   - INCOME_AMT
-   - SPECIAL_CONSIDERATIONS
-   - ASK_AMT
+       - APPLICATION_TYPE
+       - AFFILIATION
+       - CLASSIFICATION
+       - USE_CASE
+       - ORGANIZATION
+       - STATUS
+       - INCOME_AMT
+       - SPECIAL_CONSIDERATIONS
+       - ASK_AMT
 
 -	The name and EID columns are neither targets nor features, and should be removed from the input data.
 
