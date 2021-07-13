@@ -58,5 +58,6 @@ This project consists of three technical analysis deliverables to analyze and cl
 
 - I was not successful in reaching out the target model performance within my 3 attempts,these attempts did not improve the accuracy results which were around 74%.
 
+- In my first attempt to increase model performance I looked at Income_Amt value counts for binning and determined which values to replace if counts are less than 500. In my second attempt I added a 3rd layer with different number of neruons to each layer. The next few steps I took was to add extra layer and tested different activation functions (Relu and Tanh) to achieve an accuracy higher than 75% .
 
 ## Summary :
